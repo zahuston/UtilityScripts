@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# Example run command to print, but not alter, file names: python clean_files.py C:\Users\zahus\Documents\Dev\SachiFileCleanupScript false
+# Example run command to alter file names: python clean_files.py C:\Users\zahus\Documents\Dev\SachiFileCleanupScript true
+
 import os
 import sys
 
